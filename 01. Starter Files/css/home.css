@@ -67,7 +67,7 @@ section#about{
   background: grey;
   position: absolute;
   top: 1500px;
-  left: 100px;
+  left: 0;
 }
 
 div.about{
