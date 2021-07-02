@@ -113,7 +113,7 @@ div.learntechnow {
   position:absolute;
   background: white;
   border: 1px solid transparent;
-  top:1950px;
+  top:2100px;
   left:50px;
 }
 div.learntechpodcast {
@@ -122,7 +122,7 @@ div.learntechpodcast {
   position:absolute;
   background: white;
   border: 1px solid transparent;
-  top:1950px;
+  top:2100px;
   left:475px;
 }
 div.learntechblog {
@@ -131,13 +131,13 @@ div.learntechblog {
   position:absolute;
   background: white;
   border: 1px solid transparent;
-  top:1950px;
+  top:2100px;
   left:900px;
 }
 .h1lt {
 
     position: absolute;
-    top: 1850px;
+    top: 1950px;
     left: 614px;
 
 }
