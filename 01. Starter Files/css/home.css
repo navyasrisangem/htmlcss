@@ -80,7 +80,7 @@ div.students {
   width: 250px;
   height: 175px;
   color: white;
-  top: 90px;
+  top: 100px;
   left: 250px;
   text-align: center;
   position: absolute;
@@ -90,7 +90,7 @@ div.reviews {
   width: 250px;
   height: 175px;
   color: white;
-  top: 90px;
+  top: 100px;
   left: 600px;
   text-align: center;
   position: absolute;
@@ -100,7 +100,7 @@ div.courses {
   width: 250px;
   height: 175px;
   color: white;
-  top: 90px;
+  top: 100px;
   left: 951px;
   text-align: center;
   position: absolute;
